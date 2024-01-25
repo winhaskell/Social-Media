@@ -1,0 +1,41 @@
+Mining the Social Web
+https://www.oreilly.com/library/view/mining-the-social/9781491973547/
+
+by Matthew A. Russell, Mikhail Klassen
+Released January 2019
+Publisher(s): O'Reilly Media, Inc.
+ISBN: 9781491985045
+Read it now on the O’Reilly learning platform with a 10-day free trial.
+
+O’Reilly members get unlimited access to books, live events, courses curated by job role, and more from O’Reilly and nearly 200 top publishers.
+
+
+Book description:
+
+Mine the rich data tucked away in popular social websites such as Twitter, Facebook, LinkedIn, and Instagram. 
+With the third edition of this popular guide, data scientists, analysts, and programmers will learn how to glean 
+insights from social media—including who’s connecting with whom, what they’re talking about, and where they’re 
+located—using Python code examples, Jupyter notebooks, or Docker containers.
+
+In part one, each standalone chapter focuses on one aspect of the social landscape, including each of the major social sites,
+as well as web pages, blogs and feeds, mailboxes, GitHub, and a newly added chapter covering Instagram. 
+
+Part two provides a cookbook with two dozen bite-size recipes for solving particular issues with Twitter.
+
+Get a straightforward synopsis of the social web landscape
+Use Docker to easily run each chapter’s example code, packaged as a Jupyter notebook
+Adapt and contribute to the code’s open source GitHub repository
+Learn how to employ best-in-class Python 3 tools to slice and dice the data you collect
+Apply advanced mining techniques such as TFIDF, cosine similarity, collocation analysis, clique detection, and image recognition
+Build beautiful data visualizations with Python and JavaScript toolkits
+
+
+Product information:
+
+Title: Mining the Social Web, 3rd Edition
+Author(s): Matthew A. Russell, Mikhail Klassen
+Release date: January 2019
+Publisher(s): O'Reilly Media, Inc.
+ISBN: 9781491985045
+
+
